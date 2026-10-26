@@ -1,3 +1,10 @@
+'''
+Author: CYRUS 2241855671@qq.com
+Date: 2026-10-20 11:13:03
+Description: 
+
+Copyright (c) 2026 by HITCRT, All Rights Reserved.
+'''
 __credits__ = ["Intelligent Unmanned Systems Laboratory at Westlake University."]
 
 import sys    
